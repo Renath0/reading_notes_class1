@@ -6,7 +6,7 @@
 Markdown es un lenguaje de marcado ligero que permite convertir texto en HTML de manera sencilla.
 
 ## ¿Por qué utilizamos Markdown?
-Se utiliza por su simplicidad y
+Se utiliza por su simplicidad centrarse meramentee en el contenido del texto sin preocuparse por la complejidad del código HTML.
 
 ## Encabezados
 - **¿Qué símbolo creará un encabezado en Markdown?** 
