@@ -15,7 +15,7 @@
 ### ¿Cuántos necesitas para crear el título más pequeño?
   Se necesita seis `######` para el título más pequeño.
   
-### Al poner el texto en negrita o cursiva para darle énfasis, ¿qué símbolo es la mejor práctica?**
+### Al poner el texto en negrita o cursiva para darle énfasis, ¿qué símbolo es la mejor práctica?
   - **Negrita**: `**texto**`
   - *Cursiva*: `_texto_`.
 
